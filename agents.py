@@ -1,4 +1,2 @@
-#Ejemplo
-
 import mesa
 
