@@ -9,3 +9,9 @@ Replication of the model found in NetLogo:
     Northwestern University, Evanston, IL.
 """
 
+import mesa
+from agents import GrassPatch, Sheep, Wolf
+
+
+
+

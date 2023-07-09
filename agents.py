@@ -2,6 +2,7 @@ import mesa
 
 from random_walk import RandomWalker
 
+
 class Sheep(RandomWalker):
     """
         A sheep that walks around, reproduces (asexually) and gets eaten.
